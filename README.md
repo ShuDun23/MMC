@@ -9,20 +9,20 @@ Grayscale image:
 
 Color image:
 
-Reproduction:
+``Reproduction:``
 
 ## MMC for multiple image inpainting
 
 Multiple grayscale image:
 
-Reproduction: 
+``Reproduction:``
 
 ## MMC for video reconstruction
 
 Grayscale video:
 
-Reproduction:
+``Reproduction:``
 
 Color video:
 
-Reproduction: 
+``Reproduction:``
