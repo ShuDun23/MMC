@@ -3,7 +3,7 @@ Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements
 
 Core algorithm: ``MMC.m``
 
-## MMC for single image inpainting
+## MMC for *single image inpainting*
 
 Grayscale image:
 
@@ -13,7 +13,7 @@ Color image:
 
 ``Reproduction:``
 
-## MMC for multiple image inpainting
+## MMC for *multiple image inpainting*
 
 Multiple grayscale images:
 
@@ -21,7 +21,7 @@ Multiple grayscale images:
 
 MMC is also capable for multiple color images.
 
-## MMC for video reconstruction
+## MMC for *video reconstruction*
 
 Grayscale video:
 
