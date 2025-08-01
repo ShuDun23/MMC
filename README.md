@@ -15,15 +15,17 @@ Color image:
 
 ## MMC for multiple image inpainting
 
-Multiple grayscale image:
+Multiple grayscale images:
 
 ``Reproduction:``
+
+MMC is also capable for multiple color images.
 
 ## MMC for video reconstruction
 
 Grayscale video:
 
-``Reproduction:``
+Reproduction: Similar to .
 
 Color video:
 
