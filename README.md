@@ -3,11 +3,11 @@ Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements
 
 ## MMC for single image inpainting
 
-Grayscale image:
+- Grayscale image:
 
 Reproduction:
 
-Color image:
+- Color image:
 
 Reproduction:
 
