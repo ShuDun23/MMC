@@ -1,7 +1,7 @@
 # MMC
 Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements
 
-``Core algorithm: mmc.m``
+Core algorithm: ``mmc.m``
 
 ## MMC for single image inpainting
 
