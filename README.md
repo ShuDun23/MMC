@@ -7,7 +7,7 @@ Core algorithm: ``MMC.m``
 
 Grayscale image:
 
-Reproduction:````
+``Reproduction:``
 
 Color image:
 
