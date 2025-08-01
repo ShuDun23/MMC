@@ -1,6 +1,8 @@
 # MMC
 Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements
 
+``Core algorithm:``
+
 ## MMC for single image inpainting
 
 Grayscale image:
