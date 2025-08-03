@@ -7,7 +7,7 @@ Core algorithm: ``MMC.m``
 
 Single Grayscale image:
 
-``Reproduction:``
+Reproduction: Similar to ``MMC_single_rgb.m``
 
 Single Color image:
 
@@ -25,8 +25,8 @@ MMC is also capable for multiple color images.
 
 Grayscale video:
 
-Reproduction: Similar to .
+Reproduction: Similar to ``MMC_ORL.m``
 
 Color video:
 
-``Reproduction:``
+Reproduction:`` ``
