@@ -40,7 +40,7 @@ Similar to [color video reconstruction](#1).
 
 Reproduction: Similar to ``MMC_ORL.m``
 
-### Color video: <div id="1" ></div>
+### Color video: <div id="1" >
 
 Reproduction: Similar to ``MMC_single_rgb.m``
 
