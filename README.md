@@ -11,13 +11,13 @@ Single Grayscale image:
 
 Single Color image:
 
-``Reproduction: ````
+Reproduction: ``MMC_single_rgb.m``
 
 ## MMC for *multiple image inpainting*
 
 Multiple grayscale images:
 
-``Reproduction:``
+Reproduction: ``MMC_ORL.m``
 
 MMC is also capable for multiple color images.
 
