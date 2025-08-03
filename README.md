@@ -42,7 +42,7 @@ Reproduction: Similar to ``MMC_ORL.m``
 
 ### Color video:
 
-Reproduction: `` ``
+Reproduction: Similar to ``MMC_single_rgb.m``
 
 ## Citation
 
