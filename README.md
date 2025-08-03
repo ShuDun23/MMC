@@ -17,19 +17,19 @@ Reproduction: Similar to ``MMC_single_rgb.m``
 
 ### Single Color image:
 
-<img src="https://github.com/ShuDun23/MMC/blob/main/result/single color image.png" width="800px">
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/single color image.png" width="1000px">
 
 Reproduction: ``MMC_single_rgb.m``
 
 ### High-resolution image (3456x5040):
 
-<img src="https://github.com/ShuDun23/MMC/blob/main/result/high-reso.png" width="800px">
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/high-reso.png" width="1000px">
 
 ## MMC for *multiple image inpainting*
 
 ### Multiple grayscale images:
 
-<img src="https://github.com/ShuDun23/MMC/blob/main/result/multi grayscale image.png" width="800px">
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/multi grayscale image.png" width="1000px">
 
 Reproduction: ``MMC_ORL.m``
 
@@ -40,13 +40,13 @@ Similar to [color video reconstruction](#1).
 
 ### Grayscale video:
 
-<img src="https://github.com/ShuDun23/MMC/blob/main/result/grayscale video.png" width="800px">
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/grayscale video.png" width="1000px">
 
 Reproduction: Similar to ``MMC_ORL.m``
 
 ### Color video: <div id="1" >
 
-<img src="https://github.com/ShuDun23/MMC/blob/main/result/color video.png" width="800px">
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/color video.png" width="1000px">
 
 Reproduction: Similar to ``MMC_single_rgb.m``
 
