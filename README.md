@@ -5,13 +5,13 @@ Core algorithm: ``MMC.m``
 
 ## MMC for *single image inpainting*
 
-Grayscale image:
+Single Grayscale image:
 
 ``Reproduction:``
 
-Color image:
+Single Color image:
 
-``Reproduction:``
+``Reproduction: ````
 
 ## MMC for *multiple image inpainting*
 
