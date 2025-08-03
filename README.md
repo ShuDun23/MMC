@@ -11,7 +11,7 @@ Should you have any questions, please feel free to open a new [issue](https://gi
 
 ### Single Grayscale image:
 
-<img src="https://github.com/ShuDun23/MMC/blob/main/result/single grayscale image.png" width="800px">
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/single grayscale image.png" width="1000px">
 
 Reproduction: Similar to ``MMC_single_rgb.m``
 
