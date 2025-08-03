@@ -42,7 +42,7 @@ Reproduction: Similar to ``MMC_ORL.m``
 
 ### Color video: <div id="1" >
 
-<img src="https://github.com/ShuDun23/MMC/blob/main/result/color video" width="800px">
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/color video.png" width="800px">
 
 Reproduction: Similar to ``MMC_single_rgb.m``
 
