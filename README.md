@@ -36,11 +36,13 @@ Similar to [color video reconstruction](#1).
 
 ### Grayscale video:
 
-<img src="https://github.com/ShuDun23/MMC/blob/main/result/video reconstruction.png" width="800px">
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/grayscale video.png" width="800px">
 
 Reproduction: Similar to ``MMC_ORL.m``
 
 ### Color video: <div id="1" >
+
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/color video" width="800px">
 
 Reproduction: Similar to ``MMC_single_rgb.m``
 
