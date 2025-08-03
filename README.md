@@ -25,6 +25,8 @@ Reproduction: ``MMC_single_rgb.m``
 
 <img src="https://github.com/ShuDun23/MMC/blob/main/result/high-reso.png" width="1000px">
 
+Reproduction: Similar to ``MMC_single_rgb.m``
+
 ## MMC for *multiple image inpainting*
 
 ### Multiple grayscale images:
