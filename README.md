@@ -27,7 +27,7 @@ MMC is also capable for multiple color images.
 
 Grayscale video:
 
-Should you have any questions, please feel free to open a new [issue](https://github.com/ShuDun23/t-Welsch-and-RAR1MC/issues) or reach out to Russell SHENG @ hnsheng2-c@my.cityu.edu.hk
+Should you have any questions, please feel free to open a new [issue](https://github.com/ShuDun23/MMC/issues) or reach out to Russell SHENG @ hnsheng2-c@my.cityu.edu.hk
 
 Reproduction: Similar to ``MMC_ORL.m``
 
