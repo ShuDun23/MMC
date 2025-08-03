@@ -9,13 +9,13 @@ Should you have any questions, please feel free to open a new [issue](https://gi
 
 ## MMC for *single image inpainting*
 
-Single Grayscale image:
+### Single Grayscale image:
 
 <img src="https://github.com/ShuDun23/MMC/blob/main/result/single grayscale image.png" width="800px">
 
 Reproduction: Similar to ``MMC_single_rgb.m``
 
-Single Color image:
+### Single Color image:
 
 <img src="https://github.com/ShuDun23/MMC/blob/main/result/single color image.png" width="800px">
 
@@ -23,23 +23,24 @@ Reproduction: ``MMC_single_rgb.m``
 
 ## MMC for *multiple image inpainting*
 
-Multiple grayscale images:
+### Multiple grayscale images:
 
 <img src="https://github.com/ShuDun23/MMC/blob/main/result/multi grayscale image.png" width="800px">
 
 Reproduction: ``MMC_ORL.m``
 
+### Multiple color images:
 MMC is also capable for multiple color images.
 
 ## MMC for *video reconstruction*
 
-Grayscale video:
+### Grayscale video:
 
 <img src="https://github.com/ShuDun23/MMC/blob/main/result/video reconstruction.png" width="800px">
 
 Reproduction: Similar to ``MMC_ORL.m``
 
-Color video:
+### Color video:
 
 Reproduction: `` ``
 
