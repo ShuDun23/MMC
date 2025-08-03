@@ -5,6 +5,8 @@ Core algorithm: ``MMC.m``
 
 All experiments are conducted using MATLAB r2024b.
 
+Should you have any questions, please feel free to open a new [issue](https://github.com/ShuDun23/MMC/issues) or reach out to Russell SHENG @ hnsheng2-c@my.cityu.edu.hk
+
 ## MMC for *single image inpainting*
 
 Single Grayscale image:
@@ -32,8 +34,6 @@ Reproduction: Similar to ``MMC_ORL.m``
 Color video:
 
 Reproduction: `` ``
-
-Should you have any questions, please feel free to open a new [issue](https://github.com/ShuDun23/MMC/issues) or reach out to Russell SHENG @ hnsheng2-c@my.cityu.edu.hk
 
 ## Citation
 
