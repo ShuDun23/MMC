@@ -1,7 +1,9 @@
 # MMC
-Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements
+Code for ___Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements___
 
 Core algorithm: ``MMC.m``
+
+All experiments are conducted using MATLAB r2024b.
 
 ## MMC for *single image inpainting*
 
@@ -24,6 +26,8 @@ MMC is also capable for multiple color images.
 ## MMC for *video reconstruction*
 
 Grayscale video:
+
+Should you have any questions, please feel free to open a new [issue](https://github.com/ShuDun23/t-Welsch-and-RAR1MC/issues) or reach out to Russell SHENG @ hnsheng2-c@my.cityu.edu.hk
 
 Reproduction: Similar to ``MMC_ORL.m``
 
