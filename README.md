@@ -30,7 +30,7 @@ Reproduction: ``MMC_single_rgb.m``
 Reproduction: ``MMC_ORL.m``
 
 ### Multiple color images:
-Similar to color video reconstruction.
+Similar to [color video reconstruction](#1).
 
 ## MMC for *video reconstruction*
 
@@ -40,7 +40,7 @@ Similar to color video reconstruction.
 
 Reproduction: Similar to ``MMC_ORL.m``
 
-### Color video:
+### Color video: <div id="1" ></div>
 
 Reproduction: Similar to ``MMC_single_rgb.m``
 
