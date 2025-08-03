@@ -29,4 +29,4 @@ Reproduction: Similar to ``MMC_ORL.m``
 
 Color video:
 
-Reproduction:`` ``
+Reproduction: `` ``
