@@ -27,10 +27,18 @@ MMC is also capable for multiple color images.
 
 Grayscale video:
 
-Should you have any questions, please feel free to open a new [issue](https://github.com/ShuDun23/MMC/issues) or reach out to Russell SHENG @ hnsheng2-c@my.cityu.edu.hk
-
 Reproduction: Similar to ``MMC_ORL.m``
 
 Color video:
 
 Reproduction: `` ``
+
+Should you have any questions, please feel free to open a new [issue](https://github.com/ShuDun23/MMC/issues) or reach out to Russell SHENG @ hnsheng2-c@my.cityu.edu.hk
+
+## Citation
+
+If you use MMC or this codebase in your work, please cite:
+
+```
+```
+
