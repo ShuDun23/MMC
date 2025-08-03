@@ -23,6 +23,8 @@ Reproduction: ``MMC_single_rgb.m``
 
 ### High-resolution image:
 
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/high-reso.png" width="800px">
+
 ## MMC for *multiple image inpainting*
 
 ### Multiple grayscale images:
