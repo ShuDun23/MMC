@@ -21,6 +21,8 @@ Reproduction: Similar to ``MMC_single_rgb.m``
 
 Reproduction: ``MMC_single_rgb.m``
 
+### High-resolution image:
+
 ## MMC for *multiple image inpainting*
 
 ### Multiple grayscale images:
