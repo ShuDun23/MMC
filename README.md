@@ -55,6 +55,6 @@ Reproduction: Similar to ``MMC_single_rgb.m``
 If you use MMC or this codebase in your work, please cite:
 
 ```
-Hao Nan Sheng, Zhi-Yong Wang, Hing Cheung So, and Abdelhak M. Zoubir, ``Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements", 2025
+Hao Nan Sheng, Zhi-Yong Wang, Hing Cheung So, and Abdelhak M. Zoubir, "Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements", 2025
 ```
 
