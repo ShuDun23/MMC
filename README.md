@@ -1,5 +1,5 @@
 # MMC
-Code for ___Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements___ submitted to TPAMI
+Code for ___Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements___ submitted to TPAMI 2025
 
 Core algorithm: ``MMC.m``
 
