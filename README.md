@@ -21,7 +21,7 @@ Reproduction: Similar to ``MMC_single_rgb.m``
 
 Reproduction: ``MMC_single_rgb.m``
 
-### High-resolution image:
+### High-resolution image (3456x5040):
 
 <img src="https://github.com/ShuDun23/MMC/blob/main/result/high-reso.png" width="800px">
 
