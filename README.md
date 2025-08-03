@@ -30,7 +30,7 @@ Reproduction: ``MMC_single_rgb.m``
 Reproduction: ``MMC_ORL.m``
 
 ### Multiple color images:
-MMC is also capable for multiple color images.
+Similar to color video reconstruction.
 
 ## MMC for *video reconstruction*
 
