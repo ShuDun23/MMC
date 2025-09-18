@@ -1,6 +1,8 @@
 # MMC
 Code for ___Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements___ submitted to TPAMI 2025
 
+<img src="https://github.com/ShuDun23/MMC/blob/main/result/MMC.png" width="1000px">
+
 Core algorithm: ``MMC.m``
 
 All experiments are conducted using MATLAB r2024b.
