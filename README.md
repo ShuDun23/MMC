@@ -1,5 +1,5 @@
 # MMC
-Code for ___Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements___ submitted to TPAMI 2025
+Code for ___Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements___ accepted by TPAMI 2025
 
 <img src="https://github.com/ShuDun23/MMC/blob/main/result/MMC.png" width="1000px">
 
