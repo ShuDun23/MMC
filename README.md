@@ -62,7 +62,7 @@ If you use MMC or this codebase in your work, please cite:
 @article{sheng2025mmc,
 author = {Sheng, Hao Nan and Wang, Zhi-Yong and So, Hing Cheung and Zoubir, Abdelhak M},
 title = {Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements},
-year = {2025},
+year = {IEEE TPAMI, 2025},
 }
 ```
 
