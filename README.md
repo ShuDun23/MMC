@@ -60,9 +60,13 @@ If you use MMC or this codebase in your work, please cite:
 
 ```
 @article{sheng2025mmc,
-author = {Sheng, Hao Nan and Wang, Zhi-Yong and So, Hing Cheung and Zoubir, Abdelhak M},
-title = {Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements},
-year = {IEEE TPAMI, 2025},
+author={Sheng, Hao Nan and Wang, Zhi-Yong and So, Hing Cheung and Zoubir, Abdelhak M.},
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+title={Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements}, 
+year={2026},
+volume={48},
+number={2},
+pages={1626-1640},
 }
 ```
 
